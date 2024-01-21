@@ -1,0 +1,59 @@
+h1 {
+
+    font-weight: 900;
+    text-align: center;
+
+}
+
+body {
+
+    font-family: 'Inter', sans-serif;
+    color: rgb(241, 241, 250);
+    background-color: #0F0F0F;
+
+}
+
+.summary {
+
+    background: -webkit-linear-gradient(left, #9D50BB, #6E48AA);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 20px;
+    background-color: #0F0F0F !important;
+    font-weight: 900;
+
+
+}
+
+
+.add {
+
+    background-color: #0F0F0F !important;
+
+}
+
+.divider {
+
+    background-color: #0F0F0F !important;
+
+}
+
+tr:nth-child(even) {
+    background-color: rgb(30, 30, 30);
+}
+
+table {
+
+    margin: 0 auto;
+    width: 1000px;
+
+}
+
+input {
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+
+}
